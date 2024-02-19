@@ -6,6 +6,7 @@
   --azul-botao: #4163DA;
   --lilas-claro: #85A0FF;
   --lilas-escuro: #0C0421;
+  --roxo-vibrante: #4E75FF;
   /*significa que se a fonte padrão do navegador for 16px 62.50% seria 10px e é baseado em cima disso*/
   font-size: 62.5%;
 }
